@@ -14,7 +14,7 @@ Simple linear regression to predict salary from years of experience. Includes da
 
 ## Tools
 - Microsoft Excel
-- Python (pandas, scikit-learn, matplotlib) - *coming for future projects*
+- Python (pandas, scikit-learn, matplotlib, seaborn) - *coming for future projects*
 
 ## Author
 Nosipho Zondi
