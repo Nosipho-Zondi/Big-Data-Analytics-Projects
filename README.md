@@ -1,4 +1,4 @@
-# Sales & Projects Assessment – Excel Solutions
+# Excel Functions and Sales Dashboard
 
 First Excel project in my data analytics portfolio. Built to solve a sales performance assessment and a cost optimization case using core Excel functions, PivotTables, and Solver.
 
