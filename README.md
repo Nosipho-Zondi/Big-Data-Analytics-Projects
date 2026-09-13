@@ -19,5 +19,8 @@ Time-series forecasting of loan disbursements to predict future lending volumes.
 ### 05 - Diabetes Analysis
 Exploratory data analysis of diabetes health dataset to identify risk factors and patterns. → [View Project](./05-Diabetes-Analysis)
 
+### 06 - SQL College Database Intro
+My introduction to SQL and relational databases in MySQL Workbench. Explored table structures with DESCRIBE, queried data with SELECT and WHERE, inserted records, and fixed database design with composite primary keys and foreign keys. → [View Project](./06-SQL-College-Database-Intro)
+
 ## Author
 Nosipho Zondi
