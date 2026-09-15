@@ -23,7 +23,7 @@ Exploratory data analysis of diabetes health dataset to identify risk factors an
 My introduction to SQL and relational databases in MySQL Workbench. Explored table structures with DESCRIBE, queried data with SELECT and WHERE, inserted records, and fixed database design with composite primary keys and foreign keys. → [View Project](./06-SQL-College-Database-Intro)
 
 ### 07 - Power BI Financials Sales Analysis Dashboard
-Interactive Power BI dashboard analyzing sales performance by segment, country and product. → [View Project](./07-Power-BI-Financials-Sales-Analysis-Dashboard)
+Interactive Power BI dashboard analyzing sales performance by segment, country and product. → [View Project](./07-Power-BI-Financials-Sales-Analysis)
 
 ## Author
 Nosipho Zondi
