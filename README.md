@@ -25,7 +25,5 @@ My introduction to SQL and relational databases in MySQL Workbench. Explored tab
 ### 07 - Power BI Financials Sales Analysis Dashboard
 Interactive Power BI dashboard analyzing sales performance by segment, country and product. → [View Project](./07-PowerBI-Financials-Sales-Analysis)
 
-- [08 - SQL Ghost Payroll and Justice Delayed](08-SQL-Ghost-Payroll-and-Justice-Delayed/README.md) - Analyzing ongoing suspensions (NULL end_date) and vetting risks (NULL expiry) + Monte Carlo simulation for court delays.
-
-## Author
-Nosipho Zondi
+### 08 - SQL Ghost Payroll and Justice Delayed Risk Analytics
+Case study on public sector inefficiency inspired by Prof. Fikeni's Madlanga Commission testimony (18 Sept 2026). Created mock data to flag ghost payroll (NULL end_date), unspent budgets, and vetting gaps (NULL expiry) using COALESCE, DATEDIFF and CURDATE, plus Python Monte Carlo simulation for ballistics backlog and ID queue delays. → [View Project](./08-SQL-Ghost-Payroll-and-Justice-Delayed)
