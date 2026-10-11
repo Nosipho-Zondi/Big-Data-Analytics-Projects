@@ -27,3 +27,6 @@ Interactive Power BI dashboard analyzing sales performance by segment, country a
 
 ### 08 - SQL Ghost Payroll and Justice Delayed Risk Analytics
 Case study on public sector inefficiency inspired by Prof. Fikeni's Madlanga Commission testimony (18 Sept 2026). Created mock data to flag ghost payroll (NULL end_date), unspent budgets, and vetting gaps (NULL expiry) using COALESCE, DATEDIFF and CURDATE, plus Python Monte Carlo simulation for ballistics backlog and ID queue delays. → [View Project](./08-SQL-Ghost-Payroll-and-Justice-Delayed)
+
+### 09 - Retail Sales SQL Analysis
+Fixed AND vs OR logic, GROUP BY errors, shipping efficiency analysis with SQL. → [View Project](./09-Retail-Sales-SQL-Analysis/README.md)
